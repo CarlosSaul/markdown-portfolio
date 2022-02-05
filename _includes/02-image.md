@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The halo guy](https://upload.wikimedia.org/wikipedia/commons/d/d7/Halo_%28series%29_logo.svg)
